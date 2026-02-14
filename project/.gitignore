@@ -1,0 +1,36 @@
+# Зависимости - ЭТО ВАЖНО!
+node_modules/
+package-lock.json
+
+# Скомпилированные файлы
+css/
+*.css
+*.css.map
+
+# Временные файлы SASS
+.sass-cache/
+*.sass.cache
+*.scss.cache
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Логи сервера
+server.log
+npm-debug.log*
+compile-sass.sh
